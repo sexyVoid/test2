@@ -1,0 +1,1 @@
+Enter the password here and run the program `runit.py` using the command `python3 runit.py`. If the program doesn't work, it's either because of the password or because OpenSSL and Python are not installed on the system.
